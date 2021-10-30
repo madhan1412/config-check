@@ -36,7 +36,7 @@ pipeline {
                   //host: HOST_NAME,
                   targetRepo: 'rbi-docker',
                   
-                  //properties: 'project-name=docker1;status=stable',
+                  //properties: 'project-name=docker1;status=stable',  samp;
                   //project: 'my-project-key',
                   
                           )
